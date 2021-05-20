@@ -1,0 +1,13 @@
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\bin\Debug\netcoreapp3.1\TesteAppAcademyChallenge.exe
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\bin\Debug\netcoreapp3.1\TesteAppAcademyChallenge.deps.json
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\bin\Debug\netcoreapp3.1\TesteAppAcademyChallenge.runtimeconfig.json
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\bin\Debug\netcoreapp3.1\TesteAppAcademyChallenge.runtimeconfig.dev.json
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\bin\Debug\netcoreapp3.1\TesteAppAcademyChallenge.dll
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\bin\Debug\netcoreapp3.1\TesteAppAcademyChallenge.pdb
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\obj\Debug\netcoreapp3.1\TesteAppAcademyChallenge.csprojAssemblyReference.cache
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\obj\Debug\netcoreapp3.1\TesteAppAcademyChallenge.AssemblyInfoInputs.cache
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\obj\Debug\netcoreapp3.1\TesteAppAcademyChallenge.AssemblyInfo.cs
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\obj\Debug\netcoreapp3.1\TesteAppAcademyChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\obj\Debug\netcoreapp3.1\TesteAppAcademyChallenge.dll
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\obj\Debug\netcoreapp3.1\TesteAppAcademyChallenge.pdb
+C:\Users\Danielle A. Torres\source\repos\TesteAppAcademyChallenge\TesteAppAcademyChallenge\obj\Debug\netcoreapp3.1\TesteAppAcademyChallenge.genruntimeconfig.cache
